@@ -309,11 +309,6 @@ section {
 }
 /* About section */
 
-.about {
-  padding-top: 94px;
-  padding-bottom: 94px;
-}
-
 .about-list {
   margin-top: 50px;
   list-style: none;
@@ -502,6 +497,7 @@ section {
   letter-spacing: 0.06em;
 }
 .project-desc {
+  margin-top: 4px;
   font-size: 16px;
   line-height: 1.9;
   letter-spacing: 0.03em;
